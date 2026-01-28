@@ -1,0 +1,26 @@
+{
+  "lib/ccip": {
+    "tag": {
+      "name": "v2.17.0-ccip1.5.16",
+      "rev": "ae80e255dbe38e0f2536d5a36b0990a7b4d9a0d2"
+    }
+  },
+  "lib/chainlink-local": {
+    "tag": {
+      "name": "v0.2.7-beta",
+      "rev": "585ae93ebb0e92d35c732711ed16bb4729cb04dc"
+    }
+  },
+  "lib/forge-std": {
+    "tag": {
+      "name": "v1.14.0",
+      "rev": "1801b0541f4fda118a10798fd3486bb7051c5dd6"
+    }
+  },
+  "lib/openzeppelin-contracts": {
+    "tag": {
+      "name": "v5.5.0",
+      "rev": "fcbae5394ae8ad52d8e580a3477db99814b9d565"
+    }
+  }
+}
